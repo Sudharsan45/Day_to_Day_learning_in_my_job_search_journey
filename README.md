@@ -1,6 +1,7 @@
 # Day_to_Day_learning_in_my_job_search_journey
 
 I’m Sudharsan, 
+
 a Data Analyst currently upskilling myself in **Cloud, Machine Learning and real world problem solving not just random projects and youtube videos.**
 
 This repository is where I document my learning journey while preparing for a tech role. 
